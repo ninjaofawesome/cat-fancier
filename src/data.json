@@ -1,0 +1,30 @@
+{
+  "cats": [{
+      "name":"Fluffy",
+      "breed":"Burmese",
+      "likes": "Belly Rubs",
+      "dislikes": "Baths",
+      "photo": "http://loremflickr.com/300/300/cat"
+    },
+    {
+      "name":"Puffy",
+      "breed":"American Shorthair",
+      "likes": "Jingle Balls",
+      "dislikes": "Vaccuum Cleaner",
+      "photo": "http://loremflickr.com/300/300/cat"
+    },
+    {
+      "name":"Muffy",
+      "breed":"Scottish Fold",
+      "likes": "Sunny Windowsills",
+      "dislikes": "Cucumbers",
+      "photo": "http://loremflickr.com/300/300/cat"
+    },
+    {
+      "name":"Ralph",
+      "likes": "Fancy Feast",
+      "dislikes": "Donald Trump",
+      "breed":"Siamese",
+      "photo": "http://loremflickr.com/300/300/cat"
+    }]
+}

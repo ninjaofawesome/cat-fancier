@@ -1,0 +1,54 @@
+.CatsList-container {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  background: #72a462;
+}
+
+.CatsList-card {
+  width: 70%;
+  height: 350px;
+  display: block;
+  margin: 30px auto 0 auto;
+  background: #6293a4;
+  color: white;
+  border: 5px solid #a49462;
+  border-radius: 15px;
+}
+
+.CatsList-thumbnail {
+  width: 300px;
+  height: auto;
+  border: 2px solid #a49462;
+  border-radius: 15px;
+  float: left;
+  margin: 25px;
+}
+.CatsList-details {
+  list-style-type: none;
+  text-align: left;
+}
+
+.CatsList-details__item {
+  text-align: left;
+  font-size: 1.5em;
+}
+
+.CatsList-details__item-indicator {
+  color: #a49462;
+}
+
+.CatsList-name,
+.CatsList-breed,
+.CatsList-prefs {
+  text-align: left;
+  margin: 0;
+}
+
+.CatsList-name {
+  font-size: 3vw;
+  margin-top: 25px;
+  text-decoration: underline;
+  color: #a46272;
+}
